@@ -13,7 +13,7 @@
         </HEADER>
         <nav class = "navbar"> 
             <ul><!--lista--> 
-                <li><a href="ejercicio_inicio.html" class = "btn-nav"> inicio </a> </li>
+                <li><a href="index.html" class = "btn-nav"> inicio </a> </li>
                 <li><a href="ejercicio_pilotos.html" class="btn-nav"> pilotos </a> </li>
                 <li><a href="ejercicio_escuderias.html" class="btn-nav"> escuderias </a> </li>
                 <li><a href="ejercicio_pistas.html" class="btn-nav"> pistas </a> </li>
